@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600&display=swap');
+
+body{
+    background-color: #F5F7F9;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.myheader{
+    background-color: #17678E;
+}
+h3{
+    font-size: 24px;
+}
+.section2ndPart{
+    background-color: #122F50;
+}
+/* input:focus{
+    outline: #ffd500;
+} */
+footer{
+    background-color: #112E51;
+}
+ul li{
+    list-style-type: none;
+}
+li a{
+    text-decoration: none;
+    color: #fff;
+}
